@@ -472,8 +472,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   backgroundImage: {fileID: 0}
   playerVisuals:
-    animController: {fileID: 0}
-    defaultSprite: {fileID: 0}
+    animController: {fileID: 9100000, guid: 3d303efe91046e248857e5a38e9a177f, type: 2}
+    defaultSprite: {fileID: -7697199983519094219, guid: 196f64ca8827a7542b9c9207dcb4af6d, type: 3}
     color: {r: 0.14117643, g: 0.29628542, b: 1, a: 1}
     allowPlayerRotation: 1
   projectileVisuals:
@@ -482,15 +482,15 @@ MonoBehaviour:
     color: {r: 1, g: 0.8624264, b: 0, a: 1}
   tileVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: 0}
+    sprite: {fileID: 21300000, guid: 84a82f7b5d40c6746a9a1a3b145bacda, type: 3}
     color: {r: 0.7169812, g: 0.7169812, b: 0.7169812, a: 1}
   crateVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: 0}
+    sprite: {fileID: 21300000, guid: 5e9ac24cddcfa23429bddf2f56dad929, type: 3}
     color: {r: 1, g: 0.540573, b: 0.23137254, a: 1}
   trapVisuals:
-    animController: {fileID: 0}
-    sprite: {fileID: 0}
+    animController: {fileID: 9100000, guid: fc7669e7829e9c941bff7ca2a7a59122, type: 2}
+    sprite: {fileID: 1491019282, guid: 50343a19307d3544fa82b0a5b8f3dd61, type: 3}
     color: {r: 1, g: 0, b: 0.36335707, a: 1}
   blockVisuals:
     animController: {fileID: 0}
@@ -498,7 +498,7 @@ MonoBehaviour:
     color: {r: 0.14150941, g: 0.14150941, b: 0.14150941, a: 1}
   goalVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: 0}
+    sprite: {fileID: 21300000, guid: 14ae7b529e400be4e8d05abe93c5ac67, type: 3}
     color: {r: 0, g: 1, b: 0.7911868, a: 1}
 --- !u!114 &325063153
 MonoBehaviour:
@@ -1579,7 +1579,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -7697199983519094219, guid: 196f64ca8827a7542b9c9207dcb4af6d, type: 3}
+  m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1587,7 +1587,7 @@ SpriteRenderer:
   m_Size: {x: 2.56, y: 2.56}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1413444684

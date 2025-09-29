@@ -83,26 +83,26 @@ public class PlayerControl : MonoBehaviour
 
         if (_direction == Vector3.down)
         {
-            animator.SetTrigger("FaceDown");
+            animator.SetTrigger("Idle_Down");
             //Animator code goes here for this state
         }
 
         if (_direction == Vector3.up)
         {
-            animator.SetTrigger("FaceUp");
+            animator.SetTrigger("Idle_Up");
             //Animator code goes here for this state
         }
 
         if (_direction == Vector3.left)
         {
-            animator.SetTrigger("FaceSide");
+            animator.SetTrigger("Idle_Side");
             rend.flipX = false;
             //Animator code goes here for this state
         }
 
         if (_direction == Vector3.right)
         {
-            animator.SetTrigger("FaceSide");
+            animator.SetTrigger("Idle_Side");
             rend.flipX = true;
             //Animator code goes here for this state
         }
