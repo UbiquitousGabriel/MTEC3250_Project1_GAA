@@ -109,20 +109,20 @@ TextureImporter:
       name: FrogUp_GAA_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 295
-        width: 194
-        height: 130
+        x: 0
+        y: 256
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 67dac9c62cbda45e0800000000000000
-      internalID: -1924484262655120010
+      spriteID: eba153a801d74c14f91845a9fbd8aa8a
+      internalID: 1353975314
       vertices: []
       indices: 
       edges: []
@@ -131,20 +131,20 @@ TextureImporter:
       name: FrogUp_GAA_1
       rect:
         serializedVersion: 2
-        x: 287
-        y: 295
-        width: 202
-        height: 122
+        x: 256
+        y: 256
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d54cf6026e2ef8ad0800000000000000
-      internalID: -2697688173757086627
+      spriteID: bd2ae8af7fec2034facdf57da15934d5
+      internalID: 1402814241
       vertices: []
       indices: 
       edges: []
@@ -153,20 +153,20 @@ TextureImporter:
       name: FrogUp_GAA_2
       rect:
         serializedVersion: 2
-        x: 31
-        y: 39
-        width: 202
-        height: 122
+        x: 0
+        y: 0
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 04e4d606be0503650800000000000000
-      internalID: 6210552858009226816
+      spriteID: 8243c62de66bf94469ffdb5cbab805e1
+      internalID: 699571699
       vertices: []
       indices: 
       edges: []
@@ -175,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 40f72ded2ddf95b4099fb7865065c5e4
     internalID: 0
     vertices: []
     indices: 
@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FrogUp_GAA_0: 1353975314
+      FrogUp_GAA_1: 1402814241
+      FrogUp_GAA_2: 699571699
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

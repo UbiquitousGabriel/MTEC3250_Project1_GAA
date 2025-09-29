@@ -109,17 +109,25 @@ TextureImporter:
       name: FrogDown_GAA_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 295
-        width: 202
-        height: 122
+        x: 0
+        y: 256
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
+      outline:
+      - - {x: 101, y: -32}
+        - {x: 101, y: 31}
+        - {x: 62, y: 61}
+        - {x: -76, y: 61}
+        - {x: -101, y: 48}
+        - {x: -101, y: -29}
+        - {x: -89, y: -61}
+        - {x: 66, y: -61}
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 53aa331856d0e2590800000000000000
       internalID: -7697199983519094219
@@ -131,17 +139,17 @@ TextureImporter:
       name: FrogDown_GAA_1
       rect:
         serializedVersion: 2
-        x: 287
-        y: 295
-        width: 194
-        height: 130
+        x: 256
+        y: 256
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: aa3001139d2a1cdb0800000000000000
       internalID: -4773355076321279062
@@ -153,17 +161,17 @@ TextureImporter:
       name: FrogDown_GAA_2
       rect:
         serializedVersion: 2
-        x: 31
-        y: 31
-        width: 202
-        height: 146
+        x: 0
+        y: 0
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 93b9b8fb7db885840800000000000000
       internalID: 5213070327429176121
@@ -175,7 +183,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bad6326ebe2136a43ba5daa480efac5f
     internalID: 0
     vertices: []
     indices: 

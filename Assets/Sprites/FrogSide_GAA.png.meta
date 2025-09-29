@@ -109,20 +109,20 @@ TextureImporter:
       name: FrogSide_GAA_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 295
-        width: 202
-        height: 130
+        x: 0
+        y: 256
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a311a8eb1df436810800000000000000
-      internalID: 1757336041868103994
+      spriteID: 04d9f61349912714dbbedeaa15f62fdb
+      internalID: 194386676
       vertices: []
       indices: 
       edges: []
@@ -131,20 +131,20 @@ TextureImporter:
       name: FrogSide_GAA_1
       rect:
         serializedVersion: 2
-        x: 295
-        y: 295
-        width: 210
-        height: 138
+        x: 256
+        y: 256
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 520dcf451ef196b30800000000000000
-      internalID: 4280987973446324261
+      spriteID: 73752da5ba2074f40ac9dc3ce89ebe96
+      internalID: 1478711118
       vertices: []
       indices: 
       edges: []
@@ -153,20 +153,20 @@ TextureImporter:
       name: FrogSide_GAA_2
       rect:
         serializedVersion: 2
-        x: 31
-        y: 39
-        width: 218
-        height: 146
+        x: 0
+        y: 0
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4d1efb4dbea9cf9c0800000000000000
-      internalID: -3892065640277614124
+      spriteID: 021566f526eccd84e926cafedbe7b91c
+      internalID: 1031938505
       vertices: []
       indices: 
       edges: []
@@ -175,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 829184e4466a2e249aa30facc8a39809
     internalID: 0
     vertices: []
     indices: 
@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FrogSide_GAA_0: 194386676
+      FrogSide_GAA_1: 1478711118
+      FrogSide_GAA_2: 1031938505
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
