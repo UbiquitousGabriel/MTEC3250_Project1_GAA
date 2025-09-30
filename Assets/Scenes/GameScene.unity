@@ -446,17 +446,17 @@ MonoBehaviour:
   musicVolume: 1
   ambience: {fileID: 0}
   ambienceVolume: 1
-  playerMove: {fileID: 0}
+  playerMove: {fileID: 8300000, guid: 475e7158b48ad1849b3f91a3d68ea7c9, type: 3}
   playerMoveVolume: 1
-  fireProjectile: {fileID: 0}
+  fireProjectile: {fileID: 8300000, guid: d2400492c1785444cae0f47da1634f19, type: 3}
   fireProjectileVolume: 1
   projectileImpact: {fileID: 0}
   projectileImpactVolume: 1
   crateDestroyed: {fileID: 0}
   crateDestroyedVolume: 1
-  enterTrap: {fileID: 0}
+  enterTrap: {fileID: 8300000, guid: 9a49c749a91454d45bfeb28652b1548b, type: 3}
   enterTrapVolume: 1
-  goalReached: {fileID: 0}
+  goalReached: {fileID: 8300000, guid: a753d0c2639d29143a9dce70b32704d0, type: 3}
   goalReachedVolume: 1
 --- !u!114 &325063152
 MonoBehaviour:
